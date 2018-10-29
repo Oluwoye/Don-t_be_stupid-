@@ -14,4 +14,8 @@ Cons:
 	Bots haben oft schlechte Züge (random Züge)
 	Allgemein haben Bots kein Formgefühl
 	Nur wenn man gegen echte Menschen spielt, kann man danach die Spiele mit ihnen besprechen und neue Freunde finden!
+	Bots haben sehr "unmenschliche" Beweggründe für ihre Züge (Wieso spielt der Bot X bleibt oft unbeantwortet)
+	Man lernt den Fokus auf falsche Sachen zu legen (Steine fangen, ich will nur nicht getötet werden etc.)
+	Schwächere Bots haben meist sehr signifikante typische Schwächen, die man mit der Zeit lernt auszunutzen. Damit
+	fällt dann aber die Transition später damit umgehen zu können, dass Menschen keine solchen konstanten Stärken und Schwächen haben, schwer.
 
