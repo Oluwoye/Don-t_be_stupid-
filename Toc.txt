@@ -1,4 +1,4 @@
-Come on! Don‘t be stupid!
+﻿Come on! Don‘t be stupid!
 Eine streithafte Handreichung für Leute, die die Regeln erlernten
 
 Vorrede – Was ist Go für mich? Was ist das Buch?
@@ -13,7 +13,8 @@ Vorrede – Was ist Go für mich? Was ist das Buch?
 8. Play and Review!
 9. Fragt dein Gegner: Darf ich das haben? Sage: Ja!
 10. Fear cuts!
-11. Don‘t be stupid.
-12. Ein paar Worte zur Go-Knigge
-13. Gehe zu deinem verdammten Go-Spieleabend, wenn es ihn schon gibt. (oder warum es besser ist Go gemeinsam zu studieren)
-14. Empfohlene weitere Literatur
+11. Vergess' alle Josekis!
+12. Don‘t be stupid.
+13. Ein paar Worte zur Go-Knigge
+14. Gehe zu deinem verdammten Go-Spieleabend, wenn es ihn schon gibt. (oder warum es besser ist Go gemeinsam zu studieren)
+15. Empfohlene weitere Literatur
