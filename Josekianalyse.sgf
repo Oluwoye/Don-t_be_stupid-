@@ -1,0 +1,55 @@
+(;CA[utf-8]FF[4]ST[2]RU[Japanese]LB[pc:A][qc:B][pd:D][qd:C]C[Zunächst ist die Ecke leer. Es gibt verschiedene Möglichkeiten diese zu besetzen. Für Spieler unter einem höheren Danrang wurde es von Otake Hideo empfohlen nur die Züge A-D zu betrachten. A und C sind dabei, wenn man wie beim Josekistudium davon ausgeht, dass die Ecke isoliert betrachtet wird, analog und müssen nicht seperat betrachtet werden. Ansonsten sind aber keine der Züge von vornherein auszuschließen. Der 3-3 betont das Eckgebiet unter Vernachlässigung der Außenseite, der 4-4 die Außenseite  unter Vernachlässigung des Eckgebietes und der 3-4 versucht ein Ausgleich zwischen beidem zu finden. Wir betrachten den 4-4.]
+AP[CGoban:3]SZ[19]GM[1]PB[Tim Cech]PW[Joseki 1]KM[0]MULTIGOGM[1]
+;B[pd]LB[pf:B][qf:A][pg:C][qg:D]C[Wieso ist der 4-4 nachlässig in Bezug auf das Eckgebiet? Grund\: Weiß kann dieses ohne Vorbereitungen an sich nehmen mit dem 3-3. Die Varianten zeigen jedoch, dass dies nicht ganz unproblematisch für Weiß ist. Weiß will den Zug vorbereiten. A ist der einzige Zug, der dies wirklich in Angriff nimmt. B-D sind Züge für Spezialfälle, die hier nicht betrachtet werden.]
+(;W[qf]LB[mc:C][nc:B][nd:A]C[Kann Schwarz fernbleiben? Technisch ja, aber er sollte es im Allgemeinen nicht, es gibt  bessere Zeitpunkte dafür. Nur wenn Schwarz einen Zug unbedingt spielen muss und nicht riskieren kann, kann er fernbleiben.
+
+Die Fortsetzungen für Schwarz sind A-C. Dieses sind alle übliche Antworten, wobei C die älteste und komplizierteste Antwort ist. Sie sind aber alle noch verwendbar. Wir betrachten hier erstmal nur B.]
+(;B[];W[nc]C[Nun muss Schwarz reagieren. Auf P15 eingeschlossen zu werden, wäre nun zu hart.]
+;B[oe]C[Der Punkt des Gegners ist dein eigener.];W[qc]C[Es ist schwer für Schwarz hier fortzusetzen, weswegen er oft fernbleibt. Bedenkt man, dass Schwarz zwei-Mal fernbliebt, ist die Variante noch gerade so ausgeglichen. Aber Schwarz verlor die Ecke und wenigstens eine Seite. Schneidet Schwarz zu einer Seite durch, ist das Ergebnis nicht wirklich zufriedenstellend. Beweis folgt.]
+;B[pc];W[qd];B[pg];W[pe];B[pf];W[qe];B[od];W[pb];B[ob];W[qb];B[oc];W[qh]C[Die schwarze Form ist grässlich. Die weiße Ecke ist groß. Der O17 Stein hat über O18 noch Potential.])
+(;B[nc]LB[qc:A][rd:E][qi:B][pj:C][qj:D]C[Schwarz trachtet danach die Ecke mit S16 vollends abzuschließen. Dies ist in dem Sinne, die schnellste Antwort. Weiß A ist nur schwerlich möglich. Beweis folgt.
+
+Weiß kann lokal auch B-D spielen. Wir betrachten hier E]
+TE[1]
+(;W[rd]LB[kc:A][qc:B]C[Weiß möchte besser in die Ecke kommen. Schwarz kann jedoch A und B als Miai betrachten (Spiel Weiß A, spielt Schwarz B, spielt Weiß B, spielt Schwarz A) Dementsrepchend kann er nun ohne Verlust fernbleiben. Jedoch ist B für Schwarz auch Vorhand]
+;B[qc]C[Kann Weiß fernbleiben? Antwort\: Nein. Schwarz R12 wäre ein zu starker Angriff.]
+;W[qi]LB[lc:A][qg:C][ph:B][qh:D]C[Nun ist Weiß auch recht stabil geworden und die Variante ist halbwegs abgeschlossen für den Moment. Nach dem Joseki ist hier noch viel Potential beidseitg. Das weiße Potential geht vor allem über A und das Schwarze über B (selten C und D). Beide Positionen sind tief. Sowohl Weiß als auch Schwarz haben nun ein gutes Stück Gebiet zu erwarten. Die Stellung ist ausgeglichen.])
+(;W[qc];B[qd]LB[pb:E][rb:A][pc:D][rc:B][rd:C]C[Weiß hat einmal angefangen, die Ecke zu nehmen und muss daher nun fortfahren. B-C leben. A, D und E steben. B ist schlechter als C.]
+(;W[pb];B[rc];W[rb];B[pc];W[qb];B[rd];W[ob];B[nb];W[oc];B[od];W[sb];B[oa];W[pa]
+;B[ra]C[Weiß ist tot.])
+(;W[pc];B[rc];W[rb];B[rd]
+(;W[oc];B[od];W[nb];B[mb]C[Schwer für Weiß.];W[mc];B[nd];W[lb];B[ob];W[ma];B[qb]
+C[Weiß ist tot.])
+(;W[od];B[oc];W[pe]C[Nun entbrennt ein Freiheitenwettrennen];B[sb]C[Schwarz verhindet, dass Weiß in der Ecke Augenform bekommt]
+;W[qb]C[Schwarz hat 4 und Weiß 3 Freiheiten. Weiß stirb]
+(;B[rf]C[Auch möglich, für mehr Freiheiten, macht Weiß aber stärker.];W[rg]
+;B[re];W[qg]C[Nun hat Schwarz 5];B[ob]C[Tötet ])
+(;B[ob])))
+(;W[rc];B[rd];W[ob];B[nb];W[oc];B[od];W[pc];B[rb]C[Das ist nun hart und dem geschuldet, dass Weiß statt S17 S16 spielte]
+;W[sb];B[ra];W[qb];B[sd];W[sc];B[nd]C[Der Einschluss ist leicht besser als bei S16])
+(;W[rb];B[rd];W[ob];B[nb];W[oc];B[od]
+(;W[qa];B[sb]C[Wieder gefährlich];W[sc];B[rc];W[sa];B[pc];W[pb]C[Kein Ko. Weiß ist tot.])
+(;W[pb];B[sb];W[sc];B[rc];W[sa];B[pc]C[Tot]))
+(;W[rd];B[re];W[rc];B[qe];W[ob];B[nb];W[oc];B[od];W[pc];B[me]C[Weiß lebt sicher, wurde aber vollständig eingeschlossen. Weiß hat etwas Aji bei S14. Dies ist schlechter für Weiß.]))))
+(;W[qc]LB[pc:A][qd:B]C[Invadiert Weiß auf 3-3 kann Schwarz natürlich auf A oder B blocken. Wenn wir nur die Ecke die betrachten, sind sie analog.]
+;B[pc]LB[pb:A][qb:B][rb:C][rc:D][qd:E][rd:F]C[Kann Weiß nun fernbleiben? Antwort\: Nein, wenn weiß das täte, dann würde Schwarz noch R16 spielen, womit der R17 Stein tot ist und auch noch die Ecke zu beiden Seiten stark ist und nichts zu tun verbleibt. Wenn man bedenkt, dass Schwarz in der ursprünglichen zwei Züge bräuchte, um nur ein etwas vergleichbares Ergebnis Ergebnis zu bekommen, so wird klar, welchen Verlust Weiß erfahren hat.
+
+Ergebnis\: Weiß muss fortsetzen\:Grundsätzlich ist jeder Zug denkbar, der den R17 Stein nicht aufgibt. Dementsprechend sind die Züge A-F in Betracht zu ziehen. B-D führen jedoch dazu, dass Weiß zu beiden Seiten eingeschlossen wird, um zu leben. Das ist schlechter als  E-F. A wird auch eingeschlossen, hat aber die Wahl zu entkommen. E ist besser als F. Beweise folgen.]
+(;W[pb]LB[ob:A][qd:B]C[Schwarz A wäre nicht so gut, da Weiß B spielen kann, um zu besseren Variante zurückzukehren.]
+;B[qd]LB[rb:A][rc:B]C[A-B leben beide.]
+(;W[rb];B[rc];W[qb];B[ob];W[rd];B[re];W[sc];B[qf]LB[oc:A]C[Es verbleibt ein Schwachpunkt mit A, wenn die Treppe für Weiß läuft. Weiß wurde zu beiden Seiten eingeschlossen. Das Ergebnis ist gut für Schwarz.])
+(;W[rc];B[ob];W[rd];B[re];W[qa];B[rb];W[sb];B[sd];W[ra];B[qf]C[In etwa analog])
+(;W[ob]
+(;B[qb];W[lc]C[Möglich verliert aber die Ecke. Schwarz bekommt die Ecke und eine Seite. Das ist gut für Schwarz.])
+(;B[nc];W[rc];B[rd]C[Auch möglich, aber hier lebt Weiß größer.])))
+(;W[qb];B[qd];W[pb];B[ob];W[rd]C[Analog zu A nur gedreht.])
+(;W[rb]
+(;B[qd];W[rd];B[qb]C[Analog zu A, aber Achtung, Weiß hat es fertig gebracht, dass Schwarz hier zur anderen Richtung blocken muss])
+(;B[re];W[pb];B[ob];W[qa];B[qd];W[rd];B[sd];W[rc];B[nc]C[Wenn Schwarz zur anderen Seite blocken will, kann das erwartet werden]))
+(;W[rc];B[re];W[pb];B[ob];W[qa];B[rb];W[rd];B[qe];W[sb];B[sd];W[ra];B[nc]C[Hier hat Schwarz sogar keine Schwächen mehr. Das ist mit Abstand einer der schlechtesten Varianten für Weiß])
+(;W[rd];B[qe]C[Weiß würde stärker runtergedrückt als in E])
+(;W[qd]C[Das beste für Weiß];B[qe]C[Kann Weiß wegbleiben? Antworten\: Wenn es weiß zuvor nicht  konnte, so kann er es nun auch nicht. Schwarz S15 würde Weiß nun größer töten als  zuvor.]
+;W[re]LB[qf:A][rf:B]C[Gurndsätzlich kann Schwarz sich hier entscheiden mit A die Außenseite oder B die Ecke wieder zu nehmen, aber dafür schwach in Bezug auf die Außenseiten zu sein.]
+(;B[qf]C[Kann weiß fernbleiben\: Technisch nun ja, da er schon lebt, aber wieso sollte er? S14 ist noch Vorhand.]
+;W[rf];B[qg];W[pb]C[Sonst ist R18 Vorhand];B[ob];W[qb];B[nc]C[Dies ist im Allgemeinen nicht ausgeglichen. Die schwarze Außenwand ist durchtbar stark und das Eckgebiet klein, allerdings ist Weiß noch zur rechten Seite offen. Das ist das Beste, was weiß erwarten kann. Kann Schwarz die Stärke jedoch nicht nutzen, dann kann dieses Ergebnis ausgeglichen sein.])
+(;B[rf];W[qf];B[pe];W[rg];B[rd];W[sf];B[rc];W[qb];B[rb]LB[nb:A]C[Bei A ist noch Aji für Weiß. Das Ponnuki auf der Außenseite ist nicht schlecht. Das Eckgebiet für Schwarz ist aber auch gut. Unter den richtigen Umständen ist das ausgeglichen.]))))
