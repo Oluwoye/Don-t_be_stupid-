@@ -14,7 +14,8 @@ Vorrede – Was ist Go für mich? Was ist das Buch?
 9. Fragt dein Gegner: Darf ich das haben? Sage: Ja!
 10. Fear cuts!
 11. Vergess' alle Josekis!
-12. Don‘t be stupid.
-13. Ein paar Worte zur Go-Knigge
-14. Gehe zu deinem verdammten Go-Spieleabend, wenn es ihn schon gibt. (oder warum es besser ist Go gemeinsam zu studieren)
-15. Empfohlene weitere Literatur
+12. Tsumegos und wie man mit ihnen korrekt lernt
+13. Don‘t be stupid.
+14. Ein paar Worte zur Go-Knigge
+15. Gehe zu deinem verdammten Go-Spieleabend, wenn es ihn schon gibt. (oder warum es besser ist Go gemeinsam zu studieren)
+16. Empfohlene weitere Literatur
