@@ -1,2 +1,3 @@
 Es gibt ein altes Sprichwort von dem ich selbst nicht mehr weiß, wer es mir erzählte. Aber es ging in etwa wie folgt:
 "Ecken sind Gold, Ränder Silber und die Mitte ist Gras"
+Und das ist auch recht einfach erklärt. Am Rand benötigt man für sagen wir einen Punkt nur 3 Steine, am Rand benötigt man für einen Punkt schon 5 Steine und in der Mitte benötigt man für einen Punkt ganze 8 Steine. Effizienz ist da also was vollkommen anderes.
